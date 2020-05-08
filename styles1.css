@@ -1,0 +1,32 @@
+.description, .title {
+font-family: sans-serif, arial;
+font-weight: 400;
+color: red;
+text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.wrapper {
+    box-sizing: border-box;
+ height: 100vh;
+background-size: cover;
+}
+
+.button {
+ display: block;
+ margin: auto;
+ width: 150px;
+ font-family: sans-serif, arial;
+ font-size: 14px;
+ line-height: 28px;
+ text-decoration: none;
+ text-transform: uppercase;
+ color: blue;
+ background: transparent;
+ border: 2px solid;
+ text-align: center;
+ transition-duration: 0.4s;
+}
