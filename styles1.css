@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  font-family: 'Balsamiq Sans', cursive;
+  height: 100vh;
+  background-size: cover;
+}
+
+.main-description {
+font-family: 'Dancing Script', cursive;
+font-weight: 400;
+color: red;
+text-align: center;
+}
+
+.button {
+ display: block;
+ margin: auto;
+ width: 150px;
+ font-family: sans-serif, arial;
+ font-size: 14px;
+ line-height: 28px;
+ text-decoration: none;
+ text-transform: uppercase;
+ color: blue;
+ background: transparent;
+ border: 2px solid;
+ text-align: center;
+ transition-duration: 0.4s;
+}
